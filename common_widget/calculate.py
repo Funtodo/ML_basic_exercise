@@ -18,3 +18,10 @@ def compute_cost_linear(X, y, theta):
     m = len(y)
     J = sum((np.dot(theta, X.T) - y) ** 2) / (2 * m)
     return J
+
+
+
+# 测试git
+# 测试git
+# 测试git
+# 测试git
