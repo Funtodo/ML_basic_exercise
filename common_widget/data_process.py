@@ -22,12 +22,3 @@ def get_data(file_name):
 #     X[:, 0] = np.ones(len(X))
 #     X[:, 1:] = X_old
 #     return X
-
-
-
-# 测试git
-# 测试git
-# 测试git
-# 测试git
-# 测试git
-# 测试git
