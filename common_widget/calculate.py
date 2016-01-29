@@ -4,7 +4,7 @@
 import numpy as np
 
 
-# ---计算方差（除以n-1版本）---
+# ---计算样本每个特征的方差（除以n-1版本）---
 def my_std(X):
     mu = np.mean(X, axis=0)
     sigma = np.empty(len(X[0]))  # len(X[0])返回X的列数
